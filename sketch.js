@@ -9,6 +9,7 @@ function setup() {
 }
 
 function draw() {
+  //this is background
   background(216, 222, 255);
 }
 
